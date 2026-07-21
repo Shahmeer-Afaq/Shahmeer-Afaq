@@ -1,75 +1,138 @@
-<h2 data-importer="text" align="left">Felaz it's me Shahmeer Afaq <br>Code. Sleep. Repeat.💀<br>Currently surviving Software Engineering 📚</h2>
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C9FF,100:6A5ACD&text=Shahmeer%20Afaq&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"/>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Shahmeer-Afaq/Shahmeer-Afaq/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Shahmeer-Afaq/Shahmeer-Afaq/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+# 👋 Hey, I'm Shahmeer Afaq
+
+### 💻 Software Engineering Student | 🚀 Future Full Stack Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Code.+Sleep.+Repeat.+💀;Software+Engineering+Student;C%2B%2B+Developer;Python+Developer;Building+Projects+One+Commit+at+a+Time.;Always+Learning+New+Things+🚀"/>
+
 </div>
 
-###
+---
 
-<img data-importer="image" align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5wdHVnb2VkcWppcTVtN3MyMGdwcnNud3VmbnlyZjB5Ymp6c21mYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NSzHiAwAcazs7dcDr9/giphy.gif"  />
+# 💫 About Me
 
-###
+```cpp
+class ShahmeerAfaq
+{
+public:
 
-<img data-importer="image" align="left" height="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"  />
+    string University = "Software Engineering";
 
-###
+    string Goal = "Become a Full Stack Developer";
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="30" alt="opengl logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+    string Skills[8] =
+    {
+        "C++",
+        "Python",
+        "C#",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "SQL",
+        "OpenGL"
+    };
+
+    string Motto = "Code. Sleep. Repeat.";
+};
+```
+
+---
+
+# 📈 GitHub Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahmeer-Afaq&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 💻 Coding Zone
+
+<p align="center">
+
+<img width="380" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+
+<img width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+</p>
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,js,ts,react,nextjs,nodejs,html,css,mysql,git,github,linux,figma,go,opencv"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shahmeer-afaq-09ba03332/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shahmeerafaq56@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/afaq.vntg" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://t.me/+923166551678" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🏆 GitHub Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahmeer-Afaq&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Shahmeer-Afaq/Shahmeer-Afaq/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Shahmeer-Afaq&style=for-the-badge&color=blueviolet"/>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💭 Quote
+
+> **"Building my future, one commit at a time." 🚀**
+
+⭐ **Thanks for visiting my profile!**
+
 </div>
-
-###
-
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
-  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Shahmeer-Afaq/Shahmeer-Afaq/snake-output/snake.svg" alt="Snake animation" />
-
-###
